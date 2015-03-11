@@ -1,0 +1,21 @@
+{
+  "name": "titledk/silverstripe-subsite-utilities",
+  "description": "Utilities for working with subsites",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/titledk/silverstripe-subsite-utilities",
+  "keywords": ["silverstripe", "subsites"],
+  "license": "MIT",
+  "authors": [
+    {"name": "Anselm Christophersen","email": "ac@anselm.dk"}
+  ],
+  "support": {
+    "issues": "https://github.com/titledk/silverstripe-subsite-utilities/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~3.1",
+    "silverstripe/framework": "~3.1"
+  },
+  "extra": {
+    "installer-name": "subsite-utilities"
+  }
+}
